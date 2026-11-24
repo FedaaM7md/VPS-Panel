@@ -1,0 +1,14 @@
+VPS Panel
+Copyright (c) 2026 Fedaa Mohamed. All rights reserved.
+
+This product is proprietary. No permission to use, copy, modify, distribute,
+sublicense or sell is granted without prior written permission from the owner.
+
+Product names: VPS Panel / لوحة الخوادم.
+Owner: Fedaa Mohamed.
+
+Third-party components:
+- Mada font — SIL Open Font License 1.1
+- JetBrains Mono font — SIL Open Font License 1.1
+- Vite, Tailwind CSS, TypeScript, Vitest, jsdom — MIT / Apache-2.0
+See THIRD-PARTY-NOTICES.md for versions and complete attribution.

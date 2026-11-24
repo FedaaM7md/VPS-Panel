@@ -1,0 +1,238 @@
+{
+  "runAt": "2026-11-24T01:58:49.245Z",
+  "base": "http://localhost:5175/",
+  "viewport": "desktop 1440 / mobile 375 / tablet 820",
+  "checks": [
+    {
+      "name": "CSP header present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "X-Frame-Options DENY",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "nosniff header",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "referrer policy",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "permissions policy",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Arabic concept badge is Arabic only",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "rtl active for Arabic",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "guest entry button present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "brand is VPS Panel, not Fedaa",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Arabic login eyebrow uses Mada, not mono",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "owner credit is footer-only",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "owner credit links to fedaamohamed.com",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "about page renders with Arabic title",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "about page shows contact and demo note",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "help page has FAQ items",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "guest toast appears immediately",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "guest session reaches the dashboard",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "toast auto-dismisses within four seconds",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-in rail shows demo mode in Arabic",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "guest eyebrow is Arabic",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "rack units rendered",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "footer copyright and credit present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no horizontal overflow on desktop",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Arabic text has no positive letter-spacing",
+      "ok": true,
+      "detail": "[]"
+    },
+    {
+      "name": "servers table has rows",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "firewall rules rendered",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "console scripted output present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "billing invoices listed",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "demo account email is locked",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "reset control present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "ltr active after language switch",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "light theme applied",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "logout returns to login",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "logout toast has cleared before capture",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile login has no horizontal overflow",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile dashboard has no horizontal overflow",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile servers has no horizontal overflow",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "first server card is above the phone fold",
+      "ok": true,
+      "detail": "top=468"
+    },
+    {
+      "name": "phone filters are collapsed by default",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "phone filter sheet opens",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile drawer opens",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile server detail has no page-level overflow",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile English switch sets LTR",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile English dashboard has no overflow",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "tablet servers has no page-level overflow",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "keyboard focus reaches an interactive element",
+      "ok": true,
+      "detail": "BUTTON:"
+    }
+  ],
+  "errors": []
+}
